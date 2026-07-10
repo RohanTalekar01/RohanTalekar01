@@ -1,11 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Rohan Talekar<br><br>I'm an aspiring **Data Analyst** with a strong interest in transforming raw data into meaningful insights. I enjoy solving real-world problems using **SQL, Python, Excel, Power BI, and data visualization**.<br><br>Currently, I'm building hands-on projects to strengthen my analytical and problem-solving skills while expanding my knowledge in **Data Science** and **AI Automation**. I believe in continuous learning and regularly practice SQL queries, Python programming, and data analysis through real-world datasets.<br><br>## 🛠️ Skills<br><br>* SQL (MySQL)<br>* Python<br>* Excel<br>* Power BI<br>* Pandas & NumPy<br>* Data Cleaning<br>* Data Visualization<br>* Git & GitHub<br><br>## 🚀 Current Focus<br><br>* Building end-to-end Data Analytics projects<br>* Improving SQL and Python skills<br>* Learning Machine Learning fundamentals<br>* Exploring AI Automation with n8n and AI tools<br><br>## 📂 Featured Projects<br><br>* Student Management System (SQL)<br>* Employee Database<br><br>## 🌱 Goals<br><br>* Land a Data Analyst role<br>* Contribute to open-source projects<br>* Continuously learn and build impactful data solutions<br><br>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.<br>
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanTalekar01&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RohanTalekar01&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTalekar01&layout=compact&theme=dark)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohan-talekar-2b9a011a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talekarrohan01@gmail.com) 
