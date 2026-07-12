@@ -84,16 +84,6 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RohanTalekar01&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - Python Advanced Concepts
