@@ -67,7 +67,7 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=RohanTalekar01&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=RohanTalekar01"/>
 
 
 </p>
