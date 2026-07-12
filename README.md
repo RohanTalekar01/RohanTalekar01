@@ -2,33 +2,128 @@
 # 👋 Hi, I'm Rohan Talekar<br><br>I'm an aspiring **Data Analyst** with a strong interest in transforming raw data into meaningful insights. I enjoy solving real-world problems using **SQL, Python, Excel, Power BI, and data visualization**.<br><br>Currently, I'm building hands-on projects to strengthen my analytical and problem-solving skills while expanding my knowledge in **Data Science** and **AI Automation**. I believe in continuous learning and regularly practice SQL queries, Python programming, and data analysis through real-world datasets.<br><br>## 🛠️ Skills<br><br>* SQL (MySQL)<br>* Python<br>* Excel<br>* Power BI<br>* Pandas & NumPy<br>* Data Cleaning<br>* Data Visualization<br>* Git & GitHub<br><br>## 🚀 Current Focus<br><br>* Building end-to-end Data Analytics projects<br>* Improving SQL and Python skills<br>* Learning Machine Learning fundamentals<br>* Exploring AI Automation with n8n and AI tools<br><br>## 📂 Featured Projects<br><br>* Student Management System (SQL)<br>* Employee Database<br><br>## 🌱 Goals<br><br>* Land a Data Analyst role<br>* Contribute to open-source projects<br>* Continuously learn and build impactful data solutions<br><br>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.<br>
 
 
+<h3 align="center">
+Aspiring Python Developer | SQL Enthusiast | Problem Solver
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohan-talekar-2b9a011a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talekarrohan01@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RohanTalekar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RohanTalekar01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohanTalekar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Python+Developer;SQL+Learner;Building+Projects+Every+Week;Open+to+Internships;Always+Learning+New+Things" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RohanTalekar01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
-<!--
-**RohanTalekar01/RohanTalekar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science Student
+- 🐍 Currently learning **Python, SQL and Git**
+- 🚀 Building intermediate Python projects
+- 🌱 Learning Data Structures & Algorithms
+- 💡 Interested in Backend Development & Data Analytics
+- 📫 Reach me at **talekarrohan01gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧾 Expense Tracker | Python CRUD project using JSON file handling |
+| 🎮 Rock Paper Scissors | Python game using loops and random module |
+| 🔢 Number Guessing Game | Python logic building project |
+| 🧮 Calculator | Basic Python calculator using functions |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohanTalekar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTalekar01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RohanTalekar01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanTalekar01&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RohanTalekar01&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Python Advanced Concepts
+- Object-Oriented Programming
+- SQL
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/RohanTalekar01">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohan-talekar-2b9a011a2/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RohanTalekar01&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
