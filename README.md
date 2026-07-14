@@ -106,3 +106,7 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RohanTalekar01)](https://git.io/streak-stats)
+
