@@ -55,6 +55,8 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 <p align="center">
 (https://github-readme-streak-stats.herokuapp.com?user=RohanTalekar01&theme=dark)](https://git.io/streak-stats)
 
+https://github-readme-streak-stats.herokuapp.com/?user=RohanTalekar01&theme=dark)](https://git.io/streak-stats
+
 </p>
 
 ---
