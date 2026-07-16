@@ -39,14 +39,17 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧾 Expense Tracker | Python CRUD project using JSON file handling |
-| 🎮 Rock Paper Scissors | Python game using loops and random module |
-| 🔢 Number Guessing Game | Python logic building project |
-| 🧮 Calculator | Basic Python calculator using functions |
+| ⭐ Project | 🛠️ Tech Stack | 📋 Description | 🎯 Skills Demonstrated |
+|------------|---------------|----------------|------------------------|
+| 📊 **Superstore Sales Dashboard** | Excel, Pivot Tables, Pivot Charts | Interactive sales dashboard with KPIs, slicers, sales & profit analysis, and business insights. | Data Analysis • Dashboard Design • Excel |
+| 🗄️ **SQL Employee Database Project** | MySQL | Employee database analysis using filtering, joins, aggregation, subqueries, and window functions. | SQL • Data Analysis • Joins • Window Functions |
+| 🎓 **Student Management System** | MySQL | Relational database project implementing CRUD operations, JOINs, GROUP BY, HAVING, and subqueries. | Database Design • SQL • CRUD |
+| 💰 **Expense Tracker** | Python, JSON | Command-line CRUD application for managing daily expenses with JSON-based data storage. | Python • CRUD • File Handling • JSON |
+| 🌐 **Portfolio Website** | HTML, CSS, GitHub Pages | Responsive personal portfolio showcasing my projects, technical skills, certifications, and contact information with a clean, modern design. | Frontend Development • Responsive Design • GitHub Pages |
+| 🎯 **Number Guessing Game** | Python | Console-based game using loops, conditional logic, and random number generation. | Python • Logic Building • Problem Solving |
+| 🎮 **Rock Paper Scissors** | Python | Interactive game with input validation, score tracking, replay functionality, and random computer moves. | Python • Functions • Loops • Random Module |
 
 ---
 
