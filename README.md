@@ -34,7 +34,7 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,excel" />
 </p>
 
 ---
