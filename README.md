@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 # 👋 Hi, I'm Rohan Talekar<br><br>I'm an aspiring **Data Analyst** with a strong interest in transforming raw data into meaningful insights. I enjoy solving real-world problems using **SQL, Python, Excel, Power BI, and data visualization**.<br><br>Currently, I'm building hands-on projects to strengthen my analytical and problem-solving skills while expanding my knowledge in **Data Science** and **AI Automation**. I believe in continuous learning and regularly practice SQL queries, Python programming, and data analysis through real-world datasets.
 
@@ -54,6 +53,7 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RohanTalekar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=RohanTalekar01)](https://git.io/streak-stats)
 </p>
 
 ---
