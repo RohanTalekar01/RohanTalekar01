@@ -53,7 +53,6 @@ Aspiring Python Developer | SQL Enthusiast | Problem Solver
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RohanTalekar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=RohanTalekar01)](https://git.io/streak-stats)
 </p>
 
 ---
